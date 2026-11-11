@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+
+# Generated output files
+rev.txt
+
+# Build folders
+bin/
+out/
+
+# VS Code settings (except launch.json)
+.vscode/*
+!.vscode/launch.json
