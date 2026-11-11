@@ -3,6 +3,7 @@
 
 # Generated output files
 rev.txt
+points.txt
 
 # Build folders
 bin/
