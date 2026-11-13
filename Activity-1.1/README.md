@@ -11,10 +11,10 @@ Write a program that reads a sentence from the keyboard and writes it in reverse
 
 **Example:** `hello` → `olleh`
 
-### 2. Line Intersection
+### 2. Intersecting Lines
 Write a program including 2 classes: point and lines. Read four points from file “points.txt” and write to the screen if two lines are across each other.
 
-### 3. Complex Number Summation
+### 3. Complex Number Addition
 Write a program which reads a list of complex numbers from the text file “complex.txt” and writes out to the screen the sum of the list.
 
 ### 4. Greatest Common Divisor
