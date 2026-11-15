@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "client",
+            "request": "launch",
+            "mainClass": "client",
+            "projectName": "Java-OOP-DSA_8251d51a"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "Java-OOP-DSA_8251d51a"
+        },
+        {
+            "type": "java",
             "name": "Run Current Java File",
             "request": "launch",
             "mainClass": "${file}",
