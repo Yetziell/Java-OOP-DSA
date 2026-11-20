@@ -1,8 +1,10 @@
 public class C {
+    // Data fields for objects of class C
     private String dataField1;
     private int dataField2;
     private double dataField3;
 
+    // Constructors for objects of class C
     public C() { 
         this("",1,0);
     }
@@ -17,6 +19,8 @@ public class C {
         dataField2 = i;
         dataField3 = d;
     }
+
+    // Methods for objects of class C
     public void method1() {
         System.out.println(dataField1 + " " + dataField2 + " " + dataField3);
     }
